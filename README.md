@@ -4,6 +4,7 @@
 
 黒い表示板、中央の分割線、左右の小さな金属リング。上半分の板だけが倒れる動きと、乾いた機械音をブラウザで表現しています。
 
+![Python Split-Flap Board](split-flap-board.png)
 ### ▶ [パタパタ掲示板を体験する（GitHub Pages）](https://kohji-504.github.io/python-split-flap-board/)
 
 > 🔊 効果音はブラウザの仕様により、最初に「音をON」または「♪ 試聴」を押すと有効になります。
